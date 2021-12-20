@@ -1,0 +1,16 @@
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.exe
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.deps.json
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.runtimeconfig.json
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.runtimeconfig.dev.json
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.dll
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\ref\Pirma pamoka.dll
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.pdb
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.csproj.AssemblyReference.cache
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.AssemblyInfoInputs.cache
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.AssemblyInfo.cs
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.csproj.CoreCompileInputs.cache
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.dll
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\ref\Pirma pamoka.dll
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.pdb
+C:\Users\arach\Desktop\Code Academy\Pirma pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.genruntimeconfig.cache
